@@ -1,0 +1,48 @@
+html,
+body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+#humidity {
+  margin-left: 5pt;
+}
+
+.brand-logo {
+  margin-left: 1%;
+}
+
+.right li {
+  padding-left: 20px;
+}
+
+#about {
+  /* position: relative;
+  left: 250px; */
+}
+
+.responsive-img {
+  width: 100%;
+}
+
+.time-text {
+  margin-left: 30%;
+}
+
+/* .nav-wrapper {
+  height: 90px;
+} */
+
+.brand-logo {
+  font-family: "Times New Roman";
+  font-style: 30px;
+}
+
+.no-italics {
+  font-style: normal;
+}
+
+h4 {
+  color: gray;
+}
