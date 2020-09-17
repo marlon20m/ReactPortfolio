@@ -7,3 +7,4 @@ ReactDOM.render(
 );
 
 //update
+//checking name on authored and commit 
